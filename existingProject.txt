@@ -1,0 +1,11 @@
+git init / git init -b branch-name-you-want = initialize local dir as a git repo
+
+git add . / git add --all
+
+git commit -m "message"
+
+git remote add origin <repo URL>
+
+git remote -v = sets the new remote
+
+git push origin branch-name
