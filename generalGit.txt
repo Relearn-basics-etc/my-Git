@@ -1,0 +1,2 @@
+#To delete existing branch from a git repository
+git push origin --delete branch-name
